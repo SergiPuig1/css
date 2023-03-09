@@ -38,11 +38,13 @@
 }
 
 .reportTable {
-  font-family: Open Sans,Helvetica,Arial,sans-serif;
-  font-size: 12px;
-  border: 1px solid #db1414; 
   border-collapse: collapse;
-  border-spacing: 3px;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 
   /* Add customization here  */
 
